@@ -6,3 +6,5 @@ Then, we just make little story about cute shiba-inu, who just walking on the Ja
 
 I also like to walk with a fluffy dog on the Japanese streets.
 We try to use git. It's so hard.
+
+Da-da, Sasha
